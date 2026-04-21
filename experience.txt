@@ -1,0 +1,4 @@
+My experience is mainly in my prior internships. 
+I was put in charge with creating the driver for a device, so I had to look at previously created ones, build it, test it, and help my coworkers deply it
+I used both Github and GitLab to do this.
+I did this a few other times in my internship 

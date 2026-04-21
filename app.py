@@ -20,5 +20,11 @@ def home():
         return redirect("/")
     return render_template("index.html", submissions=submissions)
 
+# Used Claude AI for help implementing this
+@app.route("/clear")
+def clear():
+	global submissions = []
+	submissions = []
+	return redirect("/")
 if __name__ == "__main__":
     app.run(debug=True)
